@@ -35,7 +35,7 @@ This will open a web application in your browser where you can upload a lecture 
 
 ### API Key
 
-To use the AssemblyAI API, you will need to sign up for an API key. You can obtain an API key by following the instructions on the AssemblyAI website[4]. Once you have obtained the API key, you can set it as an environment variable:
+To use the AssemblyAI API, you will need to sign up for an API key. You can obtain an API key by following the instructions on the AssemblyAI website. Once you have obtained the API key, you can set it as an environment variable:
 
 ```bash
 export API_KEY="your_assemblyai_api_key"
@@ -59,13 +59,3 @@ rm transcription.txt
 
 If you would like to contribute to this project, please submit a pull request with your proposed changes.
 
-### License
-
-This project is licensed under the MIT License.
-
-Citations:
-[1] https://blog.ovhcloud.com/how-to-build-a-speech-to-text-application-with-python-1-3/
-[2] https://pythonbasics.org/transcribe-audio/
-[3] https://www.youtube.com/watch?v=JEKRajG0I0k
-[4] https://api.assemblyai.com/v2/transcript
-[5] https://api.wolframalpha.com/v1/spoken
