@@ -1,0 +1,9 @@
+websockets
+asyncio
+pyaudio
+streamlit
+streamlit-webrtc
+soundfile
+pyloudnorm
+noisereduce
+pydub
